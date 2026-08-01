@@ -14,6 +14,7 @@ Os principais beneficiados são pessoas com deficiência, especialmente usuário
 
 ## Questão 2 - Analise o trecho de código abaixo:
 
+```html
 <button
     class="navbar-toggler"
     type="button"
@@ -22,10 +23,14 @@ Os principais beneficiados são pessoas com deficiência, especialmente usuário
     aria-label="Abrir menu">
     Menu
 </button>
+```
+
 Responda:
 
-a) Qual é a função do atributo aria-controls?
+## a) Qual é a função do atributo aria-controls?
 
-b) O que informa o atributo aria-expanded?
+**R:** No caso, ele indica que o botão controla o elemento com o identificador MenuPrincipal
 
-c) Qual é a importância do atributo aria-label para usuários que utilizam leitores de tela?
+## b) O que informa o atributo aria-expanded?
+
+## c) Qual é a importância do atributo aria-label para usuários que utilizam leitores de tela?
