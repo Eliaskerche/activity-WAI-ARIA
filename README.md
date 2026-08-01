@@ -6,4 +6,8 @@
 O *WAI-ARIA* é um conjunto de atributos que torna sites mais acessíveis. Sua principal função é complementar informações extras, permitindo que elementos como menus, botões, formulários e janelas interativas sejam corretamente interpretados.
 
 ### Funcionalidade
-sua principal utilidade é em suma, melhorar a experiencia e acessibilidade de sites e etc, ajudando tecnologias assistivas, como leitores de tela, a entenderem a estrutura e o comportamento dos elementos da página.
+sua principal utilidade é em suma, melhorar a experiência e acessibilidade de sites e etc, ajudando tecnologias assistivas, como leitores de tela, a entenderem a estrutura e o comportamento dos elementos da página.
+
+### Quem são os principais beneficiados?
+
+Os principais beneficiados são pessoas com deficiência, especialmente usuários com deficiência visual que utilizam leitores de tela. Além disso, pessoas com limitações motoras, cognitivas ou outras necessidades de acessibilidade também são favorecidas, tornando a navegação mais inclusiva e eficiente.
