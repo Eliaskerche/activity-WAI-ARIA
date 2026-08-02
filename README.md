@@ -37,12 +37,14 @@ Responda:
 
 ## c) Qual é a importância do atributo aria-label para usuários que utilizam leitores de tela?
 
-**R:** O **aria-label** fornece uma informação(no caso o "Abrir menu") para o leitor de tela transformar em audio ou em uma linha braille
+**R:** O **aria-label** fornece uma informação(no caso o "Abrir menu") para o leitor de tela transformar em áudio ou em uma linha braille
 
 ## Questão 3 - Reflexão
 
 Muitas vezes é possível construir uma interface utilizando apenas elementos HTML semânticos, como <button>, <nav> e <main>. Entretanto, em algumas situações, é necessário utilizar atributos do WAI-ARIA.
 
-### Explique por que o WAI-ARIA não substitui o HTML semântico e descreva uma situação em que seu uso seja necessário para melhorar a acessibilidade de uma página web.
+## Explique por que o WAI-ARIA não substitui o HTML semântico e descreva uma situação em que seu uso seja necessário para melhorar a acessibilidade de uma página web.
 
 ### **R:** O WAI-ARIA não substitui o HTML semântico porque ele funciona como um complemento, adicionando informações de acessibilidade quando o HTML sozinho não é suficiente
+
+### Um bom exemplo seria a caixa de diálogo(modal): quando uma janela aparece sobre a página, atributos como aria-modal ajudam os leitores de tela a identificar que uma janela foi aberta e qual é seu título
