@@ -29,12 +29,18 @@ Responda:
 
 ## a) Qual é a função do atributo aria-controls?
 
-**R:** A função do atributo aria-controls é indicar que o botão controla o elemento com o identificador MenuPrincipal.
+**R:** A função do atributo **aria-controls** é indicar que o botão controla o elemento com o identificador *MenuPrincipal*.
 
 ## b) O que informa o atributo aria-expanded?
 
-**R:** O atributo aria-expanded informa se o elemento está expandido ou recolhido. No caso desse código, o *false* indica que o menu está fechado.
+**R:** O atributo **aria-expanded** informa se o elemento está expandido ou recolhido. No caso desse código, o *false* indica que o menu está fechado.
 
 ## c) Qual é a importância do atributo aria-label para usuários que utilizam leitores de tela?
 
-**R:** O aria-label fornece uma informação(no caso o "Abrir menu") para o leitor de tela transformar em audio ou em uma linha braille
+**R:** O **aria-label** fornece uma informação(no caso o "Abrir menu") para o leitor de tela transformar em audio ou em uma linha braille
+
+## Questão 3 - Reflexão
+
+Muitas vezes é possível construir uma interface utilizando apenas elementos HTML semânticos, como <button>, <nav> e <main>. Entretanto, em algumas situações, é necessário utilizar atributos do WAI-ARIA.
+
+### Explique por que o WAI-ARIA não substitui o HTML semântico e descreva uma situação em que seu uso seja necessário para melhorar a acessibilidade de uma página web.
