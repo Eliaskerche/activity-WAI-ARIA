@@ -44,3 +44,5 @@ Responda:
 Muitas vezes é possível construir uma interface utilizando apenas elementos HTML semânticos, como <button>, <nav> e <main>. Entretanto, em algumas situações, é necessário utilizar atributos do WAI-ARIA.
 
 ### Explique por que o WAI-ARIA não substitui o HTML semântico e descreva uma situação em que seu uso seja necessário para melhorar a acessibilidade de uma página web.
+
+**R:** O WAI-ARIA não substitui o HTML semântico porque ele funciona como um complemento, adicionando informações de acessibilidade quando o HTML sozinho não é suficiente
