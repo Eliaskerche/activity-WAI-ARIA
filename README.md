@@ -37,4 +37,4 @@ Responda:
 
 ## c) Qual é a importância do atributo aria-label para usuários que utilizam leitores de tela?
 
-**R:** 
+**R:** O aria-label fornece uma informação(no caso o "Abrir menu") para o leitor de tela transformar em audio ou em uma linha braille
