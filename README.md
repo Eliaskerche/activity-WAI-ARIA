@@ -1,4 +1,4 @@
-# **ATIVIDADE-WAI-ARIA**
+ # **ATIVIDADE-WAI-ARIA**
 
 ## Questão 1 - O que é WAI-ARIA
 
@@ -29,8 +29,10 @@ Responda:
 
 ## a) Qual é a função do atributo aria-controls?
 
-**R:** No caso, ele indica que o botão controla o elemento com o identificador MenuPrincipal
+**R:** No caso, ele indica que o botão controla o elemento com o identificador MenuPrincipal.
 
 ## b) O que informa o atributo aria-expanded?
+
+**R:** O atributo aria-expanded fala se o elemento está expandido ou recolhido. No caso desse código, o *false* indica que o menu está fechado.
 
 ## c) Qual é a importância do atributo aria-label para usuários que utilizam leitores de tela?
