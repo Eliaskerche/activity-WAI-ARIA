@@ -29,10 +29,12 @@ Responda:
 
 ## a) Qual é a função do atributo aria-controls?
 
-**R:** No caso, ele indica que o botão controla o elemento com o identificador MenuPrincipal.
+**R:** A função do atributo aria-controls é indicar que o botão controla o elemento com o identificador MenuPrincipal.
 
 ## b) O que informa o atributo aria-expanded?
 
-**R:** O atributo aria-expanded fala se o elemento está expandido ou recolhido. No caso desse código, o *false* indica que o menu está fechado.
+**R:** O atributo aria-expanded informa se o elemento está expandido ou recolhido. No caso desse código, o *false* indica que o menu está fechado.
 
 ## c) Qual é a importância do atributo aria-label para usuários que utilizam leitores de tela?
+
+**R:** 
